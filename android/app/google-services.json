@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "422324103261",
+    "project_id": "appu3-11334",
+    "storage_bucket": "appu3-11334.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422324103261:android:222ebceda789b83a0d05b4",
+        "android_client_info": {
+          "package_name": "com.example.examentres"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422324103261-be505efonuqk5c3939j7id8sqo779ls0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCykkHdmD8vOlX35EVH4hiQx8h4QTpySr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422324103261-be505efonuqk5c3939j7id8sqo779ls0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
